@@ -129,22 +129,20 @@ Python is the most important programming language in AI.
 
 ## Official Documentation
 
-- Python Official Website:
-  urlPython Official Websitehttps://www.python.org
+- Python Official Website: [Python Official Website](https://www.python.org)
 
-- Python Documentation:
-  urlPython Docshttps://docs.python.org/3/
+- Python Documentation: [Python Docs](https://docs.python.org/3/)
 
 ## Practice Platforms
 
-- urlLeetCodehttps://leetcode.com
-- urlHackerRankhttps://www.hackerrank.com
-- urlCodewarshttps://www.codewars.com
+- [LeetCode](https://leetcode.com)
+- [HackerRank](https://www.hackerrank.com)
+- [Codewars](https://www.codewars.com)
 
 ## Python Courses
 
-- urlfreeCodeCamp Python Coursehttps://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/
-- urlCS50 Pythonhttps://cs50.harvard.edu/python/
+- [freeCodeCamp Python Course](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
+- [CS50 Python](https://cs50.harvard.edu/python/)
 
 ---
 
@@ -181,9 +179,9 @@ AI heavily depends on mathematics.
 
 # 6. Best Math Resources
 
-- urlKhan Academyhttps://www.khanacademy.org
-- url3Blue1Brownhttps://www.3blue1brown.com
-- urlMIT OpenCourseWarehttps://ocw.mit.edu
+- [Khan Academy](https://www.khanacademy.org)
+- [3Blue1Brown](https://www.3blue1brown.com)
+- [MIT OpenCourseWare](https://ocw.mit.edu)
 
 YouTube Channels:
 - 3Blue1Brown
@@ -238,21 +236,21 @@ Machine Learning is the core of modern AI.
 
 ## Courses
 
-- urlAndrew Ng Machine Learning Coursehttps://www.coursera.org/learn/machine-learning
+- [Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
 
-- urlGoogle Machine Learning Crash Coursehttps://developers.google.com/machine-learning/crash-course
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
-- urlKaggle Learnhttps://www.kaggle.com/learn
+- [Kaggle Learn](https://www.kaggle.com/learn)
 
 ## Libraries
 
-- urlScikit-learnhttps://scikit-learn.org/stable/
-- urlPandashttps://pandas.pydata.org
-- urlNumPyhttps://numpy.org
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Pandas](https://pandas.pydata.org)
+- [NumPy](https://numpy.org)
 
 ## Practice
 
-- urlKaggle Competitionshttps://www.kaggle.com/competitions
+- [Kaggle Competitions](https://www.kaggle.com/competitions)
 
 ---
 
@@ -295,13 +293,13 @@ Deep Learning is a specialized branch of Machine Learning.
 
 ## Courses
 
-- urlDeepLearning.AIhttps://www.deeplearning.ai
-- urlFastAIhttps://www.fast.ai
+- [DeepLearning.AI](https://www.deeplearning.ai)
+- [FastAI](https://www.fast.ai)
 
 ## Frameworks
 
-- urlTensorFlowhttps://www.tensorflow.org
-- urlPyTorchhttps://pytorch.org
+- [TensorFlow](https://www.tensorflow.org)
+- [PyTorch](https://pytorch.org)
 
 ## Books
 
@@ -325,8 +323,8 @@ Deep Learning is a specialized branch of Machine Learning.
 
 ## Resources
 
-- urlOpenCV Officialhttps://opencv.org
-- urlUltralytics YOLOhttps://ultralytics.com
+- [OpenCV Official](https://opencv.org)
+- [Ultralytics YOLO](https://ultralytics.com)
 
 ---
 
@@ -344,9 +342,9 @@ Deep Learning is a specialized branch of Machine Learning.
 
 ## Resources
 
-- urlHugging Facehttps://huggingface.co
-- urlspaCyhttps://spacy.io
-- urlNLTKhttps://www.nltk.org
+- [Hugging Face](https://huggingface.co)
+- [spaCy](https://spacy.io)
+- [NLTK](https://www.nltk.org)
 
 ---
 
@@ -367,10 +365,10 @@ A model is incomplete unless it is deployed.
 
 ## Deployment Platforms
 
-- urlRenderhttps://render.com
-- urlRailwayhttps://railway.app
-- urlHugging Face Spaceshttps://huggingface.co/spaces
-- urlVercelhttps://vercel.com
+- [Render](https://render.com)
+- [Railway](https://railway.app)
+- [Hugging Face Spaces](https://huggingface.co/spaces)
+- [Vercel](https://vercel.com)
 
 ---
 
@@ -390,8 +388,8 @@ Every AI student should know GitHub.
 
 ## Resources
 
-- urlGitHubhttps://github.com
-- urlGit Documentationhttps://git-scm.com/doc
+- [GitHub](https://github.com)
+- [Git Documentation](https://git-scm.com/doc)
 
 ---
 
@@ -412,9 +410,9 @@ AI systems frequently use databases.
 
 ## Resources
 
-- urlMySQLhttps://www.mysql.com
-- urlMongoDBhttps://www.mongodb.com
-- urlPostgreSQLhttps://www.postgresql.org
+- [MySQL](https://www.mysql.com)
+- [MongoDB](https://www.mongodb.com)
+- [PostgreSQL](https://www.postgresql.org)
 
 ---
 
@@ -518,116 +516,67 @@ LinkedIn is extremely important for students.
 
 ## Python Learning
 
-- Corey Schafer Python Playlist
-  https://www.youtube.com/@coreyms
+- Corey Schafer Python Playlist: [Corey Schafer](https://www.youtube.com/@coreyms)
 
-- Programming with Mosh Python Course
-  https://www.youtube.com/@programmingwithmosh
+- Programming with Mosh Python Course: [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
 
-- freeCodeCamp Python Tutorials
-  https://www.youtube.com/@freecodecamp
+- freeCodeCamp Python Tutorials: [freeCodeCamp](https://www.youtube.com/@freecodecamp)
 
 ## Machine Learning
 
-- Andrew Ng Machine Learning
-  https://www.youtube.com/results?search_query=andrew+ng+machine+learning
+- Andrew Ng Machine Learning: [Andrew Ng ML on YouTube](https://www.youtube.com/results?search_query=andrew+ng+machine+learning)
 
-- Krish Naik Machine Learning Playlist
-  https://www.youtube.com/@krishnaik06
+- Krish Naik Machine Learning Playlist: [Krish Naik](https://www.youtube.com/@krishnaik06)
 
-- CodeBasics Machine Learning
-  https://www.youtube.com/@codebasics
+- CodeBasics Machine Learning: [CodeBasics](https://www.youtube.com/@codebasics)
 
 ## Deep Learning
 
-- DeepLearningAI
-  https://www.youtube.com/@Deeplearningai
+- DeepLearningAI: [DeepLearningAI](https://www.youtube.com/@Deeplearningai)
 
-- Nicholas Renotte Deep Learning Tutorials
-  https://www.youtube.com/@NicholasRenotte
+- Nicholas Renotte Deep Learning Tutorials: [Nicholas Renotte](https://www.youtube.com/@NicholasRenotte)
 
-- TensorFlow Tutorials
-  https://www.youtube.com/@TensorFlow
+- TensorFlow Tutorials: [TensorFlow](https://www.youtube.com/@TensorFlow)
 
 ## Data Science
 
-- Alex The Analyst
-  https://www.youtube.com/@AlexTheAnalyst
+- Alex The Analyst: [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
 
-- Data Professor
-  https://www.youtube.com/@DataProfessor
+- Data Professor: [Data Professor](https://www.youtube.com/@DataProfessor)
 
 ## Mathematics for AI
 
-- 3Blue1Brown
-  https://www.youtube.com/@3blue1brown
+- 3Blue1Brown: [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 
-- StatQuest
-  https://www.youtube.com/@statquest
+- StatQuest: [StatQuest](https://www.youtube.com/@statquest)
 
-- Khan Academy
-  https://www.youtube.com/@khanacademy
+- Khan Academy: [Khan Academy](https://www.youtube.com/@khanacademy)
 
 ## Computer Vision
 
-- OpenCV Tutorials
-  https://www.youtube.com/results?search_query=opencv+tutorials
+- OpenCV Tutorials: [OpenCV Tutorials](https://www.youtube.com/results?search_query=opencv+tutorials)
 
-- Ultralytics YOLO Tutorials
-  https://www.youtube.com/@Ultralytics
+- Ultralytics YOLO Tutorials: [Ultralytics](https://www.youtube.com/@Ultralytics)
 
 ## NLP and LLMs
 
-- Hugging Face Tutorials
-  https://www.youtube.com/@HuggingFace
+- Hugging Face Tutorials: [Hugging Face](https://www.youtube.com/@HuggingFace)
 
-- AssemblyAI NLP Tutorials
-  https://www.youtube.com/@AssemblyAI
+- AssemblyAI NLP Tutorials: [AssemblyAI](https://www.youtube.com/@AssemblyAI)
 
 ## Web Development for AI
 
-- Traversy Media
-  https://www.youtube.com/@TraversyMedia
+- Traversy Media: [Traversy Media](https://www.youtube.com/@TraversyMedia)
 
-- Tech With Tim
-  https://www.youtube.com/@TechWithTim
+- Tech With Tim: [Tech With Tim](https://www.youtube.com/@TechWithTim)
 
 ## Deployment and MLOps
 
-- Docker Tutorials
-  https://www.youtube.com/results?search_query=docker+tutorials
+- Docker Tutorials: [Docker Tutorials](https://www.youtube.com/results?search_query=docker+tutorials)
 
-- FastAPI Tutorials
-  https://www.youtube.com/results?search_query=fastapi+tutorial
+- FastAPI Tutorials: [FastAPI Tutorials](https://www.youtube.com/results?search_query=fastapi+tutorial)
 
-- Flask Tutorials
-  https://www.youtube.com/results?search_query=flask+tutorial
-
----
-
-# 21. How to Balance GPA and Skills
-
-## Example Routine
-
-### University Time
-- Attend lectures seriously
-- Maintain decent GPA
-- Complete assignments
-- Understand concepts
-
-### Professional Learning Time
-
-#### Daily
-- 1 hour coding practice
-- 1 hour AI learning
-- 1 project improvement
-- 30 minutes reading documentation
-
-#### Weekly
-- Build mini-projects
-- Upload projects to GitHub
-- Post learning on LinkedIn
-- Watch industry-level tutorials
+- Flask Tutorials: [Flask Tutorials](https://www.youtube.com/results?search_query=flask+tutorial)
 
 ---
 
@@ -820,71 +769,70 @@ Your future depends more on your consistency than your starting point.
 # 29. Complete AI Learning Links Collection
 
 ## Python
-- https://www.python.org
-- https://docs.python.org/3/
-- https://www.youtube.com/@coreyms
-- https://www.youtube.com/@programmingwithmosh
-- https://www.youtube.com/@freecodecamp
+- [Python Official Website](https://www.python.org)
+- [Python Documentation](https://docs.python.org/3/)
+- [Corey Schafer YouTube](https://www.youtube.com/@coreyms)
+- [Programming with Mosh YouTube](https://www.youtube.com/@programmingwithmosh)
+- [freeCodeCamp YouTube](https://www.youtube.com/@freecodecamp)
 
 ## Machine Learning
-- https://www.coursera.org/learn/machine-learning
-- https://developers.google.com/machine-learning/crash-course
-- https://www.kaggle.com/learn
-- https://scikit-learn.org/stable/
+- [Andrew Ng Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Kaggle Learn](https://www.kaggle.com/learn)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
 ## Deep Learning
-- https://www.deeplearning.ai
-- https://www.fast.ai
-- https://www.tensorflow.org
-- https://pytorch.org
+- [DeepLearning.AI](https://www.deeplearning.ai)
+- [FastAI](https://www.fast.ai)
+- [TensorFlow](https://www.tensorflow.org)
+- [PyTorch](https://pytorch.org)
 
 ## Computer Vision
-- https://opencv.org
-- https://ultralytics.com
+- [OpenCV](https://opencv.org)
+- [Ultralytics YOLO](https://ultralytics.com)
 
 ## NLP and LLMs
-- https://huggingface.co
-- https://spacy.io
-- https://www.nltk.org
+- [Hugging Face](https://huggingface.co)
+- [spaCy](https://spacy.io)
+- [NLTK](https://www.nltk.org)
 
 ## Git and GitHub
-- https://github.com
-- https://git-scm.com/doc
+- [GitHub](https://github.com)
+- [Git Documentation](https://git-scm.com/doc)
 
 ## Databases
-- https://www.mysql.com
-- https://www.mongodb.com
-- https://www.postgresql.org
+- [MySQL](https://www.mysql.com)
+- [MongoDB](https://www.mongodb.com)
+- [PostgreSQL](https://www.postgresql.org)
 
 ## Deployment Platforms
-- https://render.com
-- https://railway.app
-- https://huggingface.co/spaces
-- https://vercel.com
+- [Render](https://render.com)
+- [Railway](https://railway.app)
+- [Hugging Face Spaces](https://huggingface.co/spaces)
+- [Vercel](https://vercel.com)
 
 ## Coding Practice
-- https://leetcode.com
-- https://www.hackerrank.com
-- https://www.codewars.com
+- [LeetCode](https://leetcode.com)
+- [HackerRank](https://www.hackerrank.com)
+- [Codewars](https://www.codewars.com)
 
 ## Mathematics
-- https://www.khanacademy.org
-- https://www.3blue1brown.com
-- https://ocw.mit.edu
+- [Khan Academy](https://www.khanacademy.org)
+- [3Blue1Brown](https://www.3blue1brown.com)
+- [MIT OpenCourseWare](https://ocw.mit.edu)
 
 ## AI Communities
-- https://www.kaggle.com
-- https://www.reddit.com/r/MachineLearning/
-- https://discord.com
+- [Kaggle](https://www.kaggle.com)
+- [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+- [Discord](https://discord.com)
 
 ## YouTube AI Learning Channels
-- https://www.youtube.com/@krishnaik06
-- https://www.youtube.com/@codebasics
-- https://www.youtube.com/@3blue1brown
-- https://www.youtube.com/@statquest
-- https://www.youtube.com/@NicholasRenotte
-- https://www.youtube.com/@Deeplearningai
-- https://www.youtube.com/@TechWithTim
-- https://www.youtube.com/@TraversyMedia
-- https://www.youtube.com/@AlexTheAnalyst
-
+- [Krish Naik](https://www.youtube.com/@krishnaik06)
+- [CodeBasics](https://www.youtube.com/@codebasics)
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [StatQuest](https://www.youtube.com/@statquest)
+- [Nicholas Renotte](https://www.youtube.com/@NicholasRenotte)
+- [DeepLearningAI](https://www.youtube.com/@Deeplearningai)
+- [Tech With Tim](https://www.youtube.com/@TechWithTim)
+- [Traversy Media](https://www.youtube.com/@TraversyMedia)
+- [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
